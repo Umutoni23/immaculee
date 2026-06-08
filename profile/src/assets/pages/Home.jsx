@@ -4,7 +4,9 @@ import secondImage from "../scrum.png";
 import thirdImage from "../virtual.png";
 import fourImage from "../react.svg";
 import passportImage from "../passport.png";
-
+import bkImage from "../bk.png";
+import chancesImage from "../chances.png";
+import keplerImage from "../kepler.png";
 function Home() {
   return (
     <>
@@ -16,7 +18,7 @@ function Home() {
 
               <p className="hero-description">
                 Hello, I'm <strong>Immaculee Uwiduhaye</strong>, 
-                a Project Management student at Kepler College in Kigali. I specialize in organizing and managing projects while applying technology and innovation to solve real-world problems. I am passionate about creating practical digital solutions, improving processes, and continuously developing my skills through hands-on experience. I am driven by growth, impact, and delivering meaningful results through my work.
+                 Motivated Project Management student with strong analytical, communication, and leadership skills. Experienced in retail banking, agency banking, and card production through an internship at Bank of Kigali. Skilled in customer service, problem-solving, and organizational communication, with proven leadership as Communication Coordinator at Chancen International and President of Kepler Adventist Community. Proficient in using technology for project planning and implementation. Passionate about leveraging project management expertise to address local challenges and contribute to sustainable development. 
               </p>
             </div>
 
@@ -62,13 +64,10 @@ function Home() {
                 <div className="timeline-step__line" />
                 <div className="timeline-step__content">
                   <h2 className="timeline-step__title">
-                    Communication Cordinator at Chancen Internation Rwanda
+                    Retail Banking & Payments Intern, Bank of Kigali – Kigali, Rwanda 
                   </h2>
                   <p className="timeline-step__text">
-                    I supported the planning and coordination of engineering
-                    projects by managing schedules, tracking progress and
-                    ensuring effective team collaboration, contributing to
-                    timely and effecirnt project delivery.
+                   During my internship at Bank of Kigali, I supported retail banking operations by assisting customers with account services, processing requests, issuing cards, and ensuring KYC compliance through accurate document verification. I also assisted with agency banking activities, supported card production processes, and provided quality customer service to enhance the overall customer experience.
                   </p>
                   <Link to="/about" className="timeline-step__link">
                     Learn More
@@ -82,13 +81,10 @@ function Home() {
                 <div className="timeline-step__marker">02</div>
                 <div className="timeline-step__content">
                   <h2 className="timeline-step__title">
-                    Teaching Assisstant at IEE
+                    Communication Coordinator, Chancen International Rwanda – Kepler College 
                   </h2>
                   <p className="timeline-step__text">
-                    I supported teaching and learning activities by assissting
-                    in lesson delivery, guiding students and creating
-                    supportive classroom environment that improves student
-                    engagement and understanding.
+                    At Chancen International, I coordinated communication and engagement activities for over 200 students, organized events and information sessions to encourage participation, and strengthened collaboration between the organization and Kepler students through effective communication and relationship-building.
                   </p>
                   <Link to="/about" className="timeline-step__link">
                     Learn More
@@ -117,17 +113,11 @@ function Home() {
 
               <div className="timeline-step__content">
                 <h2 className="timeline-step__title">
-                  Frontend Developer at Igire Rwanda
+                  Cohort Representative at Kepler College
                 </h2>
 
                 <p className="timeline-step__text">
-                  I worked as a Frotn-End developer at Igire Rwanda where l
-                  built responsivene and user-friendly web interfaces using
-                  React,HTML,CSS and Javascript. I translated design concepts
-                  into functions, ensecured across-device compatibility abd
-                  collaborated with team member to improve overall user
-                  experience while strengthening my technical and
-                  proble-solving skills.
+                  As a Cohort Representative at Kepler College, I serve as a link between students and college administration by communicating student concerns, sharing important information, supporting student engagement, and promoting collaboration to help create a positive and productive learning environment.
                 </p>
 
                 <Link to="/about" className="timeline-step__link">
