@@ -24,24 +24,24 @@ const references = [
   {
     icon: FaBriefcase,
     category: "Professional Reference",
-    name: "Mr. Jean Pierre NDAGIJIMANA",
-    position: "Doctor",
-    organization: "Centre Hospitalier Universitaire de Kigali (CHUK)",
-    phone: "+250 783 888434",
-    email: "ndagijimapeter@gmail.com",
+    name: "Mr. Venuste NIYITANGA",
+    position: "Sales Manager",
+    organization: "Sanlam & Allianza Insurance",
+    phone: "+250 788319063",
+    email: "niyitanga.venuste@gmail.com",
     relationship:
-      "A professional reference from CHUK who can speak about my conduct, communication, and the way I relate with people in a professional setting.",
+      "Managed client relationships, promoted insurance products, and drove sales growth while ensuring excellent customer service.",
   },
   {
     icon: FaBuilding,
     category: "Additional Reference",
-    name: "Mr. Deo UWIMPUHWE",
-    position: "Engineer Planning Coordinator ",
-    organization: "Rwanda Energy Group (REG)",
-    phone: "+250 786 072 243",
-    email: "duwimpuhwe@eucl.reg.rw",
+    name: "Mr. Etienne AKIMANA",
+    position: "Business Analyst",
+    organization: "Bank of Kigali (Bk)",
+    phone: "+250 780047409",
+    email: "",
     relationship:
-      "A workplace reference who can verify my teamwork, responsibility, and contribution in an engineering and coordination environment.",
+      "Analyzed business data and processes to identify opportunities, improve performance, and support informed decision-making.",
   },
 ];
 

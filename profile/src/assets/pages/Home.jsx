@@ -1,12 +1,8 @@
 import { Link } from "react-router-dom";
-import heroImage from "../hero.png";
-import secondImage from "../scrum.png";
-import thirdImage from "../virtual.png";
-import fourImage from "../react.svg";
+import secondImage from "../bk.png";
+import thirdImage from "../chancen1.png";
+import fourImage from "../kepler.png";
 import passportImage from "../passport.png";
-import bkImage from "../bk.png";
-import chancesImage from "../chances.png";
-import keplerImage from "../kepler.png";
 function Home() {
   return (
     <>
@@ -55,7 +51,7 @@ function Home() {
             <div className="timeline-layout__row">
               <img
                 src={secondImage}
-                alt="Portfolio gallery preview"
+                alt="Bank of Kigali internship"
                 className="image-placeholder image-placeholder--tall timeline-image"
               />
 
@@ -81,7 +77,7 @@ function Home() {
                 <div className="timeline-step__marker">02</div>
                 <div className="timeline-step__content">
                   <h2 className="timeline-step__title">
-                    Communication Coordinator, Chancen International Rwanda – Kepler College 
+                    Communication Coordinator at Chancen International Rwanda 
                   </h2>
                   <p className="timeline-step__text">
                     At Chancen International, I coordinated communication and engagement activities for over 200 students, organized events and information sessions to encourage participation, and strengthened collaboration between the organization and Kepler students through effective communication and relationship-building.
@@ -94,7 +90,7 @@ function Home() {
 
               <img
                 src={thirdImage}
-                alt="Portfolio feature preview"
+                alt="Chancen International Rwanda"
                 className="image-placeholder image-placeholder--wide timeline-image"
               />
             </div>
@@ -103,7 +99,7 @@ function Home() {
           <div className="timeline-layout__row">
             <img
               src={fourImage}
-              alt="New experience"
+              alt="Kepler College experience"
               className="image-placeholder image-placeholder--tall timeline-image"
             />
 

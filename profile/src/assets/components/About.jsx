@@ -6,22 +6,22 @@ const strengths = [
 
 const experienceItems = [
   {
-    role: "Engineering Planning Coordinator Assistant",
-    company: "Rwanda Energy Group (REG)",
+    role: "Retail Banking & Payments Intern",
+    company: "Bank of Kigali (Bk)",
     summary:
-      "Supported planning activities, followed project schedules, and helped teams stay aligned on engineering priorities and delivery timelines.",
+      "Assisted customers with account services, card issuance, and KYC verification to ensure efficient and compliant retail banking operations. Supported agency banking and card production activities while delivering quality customer service and resolving operational issues.",
   },
   {
-    role: "Teaching Assistant",
-    company: "Inspire Educate and Empower Rwanda(IEE)",
+    role: "Communication Coordinator",
+    company: "Chancen International Rwanda",
     summary:
-      "Helped create a supportive learning environment by assisting with lessons, guiding students, and improving engagement in the classroom.",
+      "Coordinated communication and engagement activities for over 200 students while organizing events and information sessions to increase participation. Strengthened collaboration between Chancen International and Kepler students through effective communication and relationship-building.",
   },
   {
-    role: "Frontend Developer",
-    company: "Igire Rwanda Organization (IRO)",
+    role: "Cohort Representative",
+    company: "Kepler College",
     summary:
-      "Built responsive user interfaces with React, HTML, CSS, and JavaScript while translating ideas into clear digital experiences and improving usability.",
+      "Served as a liaison between students and faculty, advocating for student needs and facilitating communication. Represented the voices of peers in meetings and contributed to initiatives that enhanced the overall student experience.",
   },
 ];
 
@@ -35,7 +35,7 @@ function About() {
           meaningful digital work.
         </h1>
         <p className="about-hero__text">
-          I am Leoncie Umutoni, a Project Management student with a strong
+          I am Immaculee Uwiduhaye, a Project Management student with a strong
           interest in technology, collaboration, and creating solutions that
           make a real impact. My journey combines academic growth with hands-on
           experience, helping me develop both professional discipline and a

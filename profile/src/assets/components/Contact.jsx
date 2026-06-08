@@ -10,22 +10,22 @@ const contactItems = [
   {
     icon: FaEnvelope,
     label: "Email",
-    value: "umutonileoncie37@gmail.com",
-    href: "mailto:umutonileoncie37@gmail.com",
+    value: "uwiduhayeemmaculee@gmail.com",
+    href: "mailto:uwiduhayeemmaculee@gmail.com",
     note: "Best for internship opportunities and professional communication.",
   },
   {
     icon: FaPhone,
     label: "Phone",
-    value: "+250 791 365 439",
-    href: "tel:+250791365439",
+    value: "+250 788750738",
+    href: "tel:+250 736583376",
     note: "Available for direct calls and quick follow-up conversations.",
   },
   {
     icon: FaPhone,
     label: "Alternative Phone",
-    value: "+250 798 863 710",
-    href: "tel:+250798863710",
+    value: "+250 736583376",
+    href: "tel:+250 736583376",
     note: "A secondary contact option for reliable communication.",
   },
   {
