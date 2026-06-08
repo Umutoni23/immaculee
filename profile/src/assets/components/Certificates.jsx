@@ -8,20 +8,20 @@ import ManagementInPracticeImage from "../react.svg";
 
 const certificates = [
   {
-    title: "Inteligence AI Certificate",
-    issuer: "Dubai Future Foundation",
+    title: "AI for Productivity",
+    issuer: "Kepler College",
     period: "2026",
-    image: aiCertificateImage,
+    image: aiproductivityImage,
     imageAlt: "AI Certificate",
     description:
       "This certificate demonstrates my foundational understanding of Artificial Intelligence concepts and how they can be applied in real-world situations. It reflects my ability to learn and engage with modern technologies that support innovation and digital transformation.",
   },
   {
-    title: "Teaching and Facilitation Certificate",
-    issuer: "Inspire Educate and Empower Rwanda",
+    title: "Virtual Assistant",
+    issuer: "ALX Africa",
     period: "2023",
-    image: teachingCertificateImage,
-    imageAlt: "IEE Certificate",
+    image: virtualimage,
+    imageAlt: "Virtual Assistant Certificate",
     description:
       "This certificate represents my experience in teaching and facilitation, where I developed strong communication and presentation skills. It highlights my ability to share knowledge effectively and support learning in a structured environment.",
   },

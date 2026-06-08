@@ -7,7 +7,7 @@ import {
   HiIdentification,
   HiLightBulb,
 } from "react-icons/hi2";
-import profileImage from "../hero.png";
+import { BsPassport } from "react-icons/bs";
 
 
 const navItems = [
