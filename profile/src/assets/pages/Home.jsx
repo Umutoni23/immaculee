@@ -3,6 +3,7 @@ import heroImage from "../hero.png";
 import secondImage from "../scrum.png";
 import thirdImage from "../virtual.png";
 import fourImage from "../react.svg";
+import passportImage from "../passport.png";
 
 function Home() {
   return (
@@ -21,7 +22,7 @@ function Home() {
 
             <div className="hero-visual">
               <img
-                src={heroImage}
+                src={passportImage}
                 alt="Immaculee Uwiduhaye portrait"
                 className="hero-portrait"
               />
@@ -61,7 +62,7 @@ function Home() {
                 <div className="timeline-step__line" />
                 <div className="timeline-step__content">
                   <h2 className="timeline-step__title">
-                    Engineer Planning Coordinator Assisstant at REG
+                    Communication Cordinator at Chancen Internation Rwanda
                   </h2>
                   <p className="timeline-step__text">
                     I supported the planning and coordination of engineering

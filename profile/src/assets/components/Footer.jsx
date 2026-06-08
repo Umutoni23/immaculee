@@ -7,10 +7,10 @@ function Footer() {
         <div className="footer-row">
           <div className="footer-contact">
             <p>
-              <FaEnvelope /> immaculeeuwiduhaye@gmail.com
+              <FaEnvelope /> uwiduhayeemmaculee@gmail.com
             </p>
             <p>
-              <FaPhone /> +250 788350375 | +250 798863710
+              <FaPhone /> +250 788750738 | +250 736583376
             </p>
           </div>
 
