@@ -8,6 +8,7 @@ import {
   HiLightBulb,
 } from "react-icons/hi2";
 import { BsPassport } from "react-icons/bs";
+import profileImage from "../passport.png";
 
 
 const navItems = [

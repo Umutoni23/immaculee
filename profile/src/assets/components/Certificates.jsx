@@ -3,7 +3,6 @@ import essentialAiImage from "../chancen.png";
 import scrumMasterImage from "../scrum.png";
 import teachingCertificateImage from "../virtual.png";
 import virtualAssistantImage from "../hero.png";
-import AIProductivityImage from "../aiproductivity.png";
 import ManagementInPracticeImage from "../react.svg";
 
 const certificates = [
@@ -11,7 +10,7 @@ const certificates = [
     title: "AI for Productivity",
     issuer: "Kepler College",
     period: "2026",
-    image: aiproductivityImage,
+    image: aiCertificateImage,
     imageAlt: "AI Certificate",
     description:
       "This certificate demonstrates my foundational understanding of Artificial Intelligence concepts and how they can be applied in real-world situations. It reflects my ability to learn and engage with modern technologies that support innovation and digital transformation.",
@@ -20,7 +19,7 @@ const certificates = [
     title: "Virtual Assistant",
     issuer: "ALX Africa",
     period: "2023",
-    image: virtualimage,
+    image: teachingCertificateImage,
     imageAlt: "Virtual Assistant Certificate",
     description:
       "This certificate represents my experience in teaching and facilitation, where I developed strong communication and presentation skills. It highlights my ability to share knowledge effectively and support learning in a structured environment.",
@@ -56,7 +55,7 @@ const certificates = [
     title: "AI in Productivity",
     issuer: "Professional Development",
     period: "2025",
-    image: AIProductivityImage,
+    image: aiCertificateImage,
     imageAlt: "AI in Productivity Certificate",
     description:
       "This certificate shows my understanding of how Artificial Intelligence can improve productivity through smarter workflows, better organization, and more efficient task completion. It reflects my interest in using digital tools to work effectively and create practical results.",
